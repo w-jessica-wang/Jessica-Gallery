@@ -3,54 +3,54 @@ const themes = [
     { 
         name: "Conducting", 
         images: [
-            "Images/7.jpg",
-            "Images/2.jpg", 
-            "Images/5.jpg",
-            "Images/1.jpg", 
-            "Images/6.jpg"
+            "images/7.jpg",
+            "images/2.jpg", 
+            "images/5.jpg",
+            "images/1.jpg", 
+            "images/6.jpg"
         ]
     },
     { 
         name: "Violin", 
         images: [
-            "Images/violin2.jpg",
-            "Images/violin7.jpg",
-            "Images/violin1.jpg",
-            "Images/violin3.jpg",
-            "Images/violin5.jpg",
-            "Images/violin6.jpg"
+            "images/violin2.jpg",
+            "images/violin7.jpg",
+            "images/violin1.jpg",
+            "images/violin3.jpg",
+            "images/violin5.jpg",
+            "images/violin6.jpg"
         ] 
     },
     { 
         name: "Ballet",
         images: [
-            "Images/ballet1.jpg",
-            "Images/ballet2.jpg",
-            "Images/ballet3.jpg",
-            "Images/ballet4.jpg",
-            "Images/ballet5.jpg"
+            "images/ballet1.jpg",
+            "images/ballet2.jpg",
+            "images/ballet3.jpg",
+            "images/ballet4.jpg",
+            "images/ballet5.jpg"
         ]
     },
     { 
         name: "C-Pop",
         images: [
-            "Images/cpop5.jpg",
-            "Images/cpop6.jpg",
-            "Images/cpop1.jpg",
-            "Images/cpop3.jpg",
-            "Images/cpop2.jpg"
+            "images/cpop5.jpg",
+            "images/cpop6.jpg",
+            "images/cpop1.jpg",
+            "images/cpop3.jpg",
+            "images/cpop2.jpg"
         ] 
     },
     { 
         name: "Awards",
         images: [
-            "Images/buttram.jpg",
-            "Images/keith.jpg",
-            "Images/solo20.jpg",
-            "Images/group20.jpg",
-            "Images/solo19.jpg",
-            "Images/group19.jpg",
-            "Images/ballet2nd.jpg"
+            "images/buttram.jpg",
+            "images/keith.jpg",
+            "images/solo20.jpg",
+            "images/group20.jpg",
+            "images/solo19.jpg",
+            "images/group19.jpg",
+            "images/ballet2nd.jpg"
         ],
         descriptions:[
             "OKCPHIL Young Musician Competition Grand Prize",
