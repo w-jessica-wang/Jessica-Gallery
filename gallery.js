@@ -55,11 +55,11 @@ const themes = [
         descriptions:[
             "OKCPHIL Young Musician Competition Grand Prize",
             "OKCPHIL Young Musician Competition Division 1st Prize",
-            "Violin Solo 1st Prize, Province Competition, Tianjin 2020",
-            "Concertmaster, String Ensemble 1st Prize, Province Competition, Tianjin 2020",
+            "Violin Solo 1st Prize, Province Competition, Awarded by Tianjin Municipal Education Commission 2020",
+            "Concertmaster, String Ensemble 1st Prize, Province Competition, Awarded by Tianjin Municipal Education Commission 2020",
             "Violin Solo 1st Prize, 2019",
             "Concertmaster, String Ensemble 1st Prize, 2019",
-            "Ballet Solo - Black Swan, 2nd Prize District Competition, Tianjin 2020"
+            "Ballet Solo - Black Swan, 2nd Prize District Competition, Awarded by Tianjin Municipal Education Commission 2020"
         ]
     }
 ];
